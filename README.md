@@ -38,6 +38,7 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwos-workeye&theme=radical" alt="GitHub streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwos-workeye&theme=radical" alt="GitHub Streak" />
+
 </div>
 
