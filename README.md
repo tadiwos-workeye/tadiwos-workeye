@@ -37,8 +37,11 @@
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwos-workeye&theme=radical" alt="GitHub Streak" />
+   <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&theme=gruvbox_light&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwos-workeye&theme=gruvbox_light" alt="GitHub Streak" />
+</p>
 
 </div>
 
