@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Tadiwos Workeye</h1>
 <h3 align="center">Full Stack Developer | MSc in Computer Science & Engineering (AI)</h3>
 
 <p align="center">
@@ -24,16 +22,15 @@
 |---------------|------------------|----------------|---------------------|
 | Next.js       | .NET Framework   | TypeScript     | Git & GitHub        |
 | React         | RESTful APIs     | JavaScript     | Postman             |
-| Angular       |                  |                | Visual Studio Code  |
-| MUI (Material UI) |             |                | Docker (basic)      |
+| Angular       |  Next.js        |     C#           | Visual Studio Code  |
+| MUI (Material UI) |             |    python            | Docker (basic)      |
 
 ---
 
 ### 📫 Contact Me
 
-- 💼 LinkedIn:https://www.linkedin.com/in/tadiwos-workiye-183704224/
-- 📧 Email: tadiwosworkeye6@gamil.com
-
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: your.email@example.com
 
 ---
 
@@ -44,6 +41,3 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwos-workeye&theme=radical" alt="GitHub streak" />
 </p>
-
-
-
