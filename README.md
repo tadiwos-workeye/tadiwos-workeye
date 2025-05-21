@@ -36,8 +36,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwos-workeye&theme=radical" alt="GitHub streak" />
-</p>
+</div>
+
