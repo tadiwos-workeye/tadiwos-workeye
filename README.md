@@ -31,18 +31,18 @@
 
 ### 📫 Contact Me
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional)*
+- 💼 LinkedIn:https://www.linkedin.com/in/tadiwos-workiye-183704224/
+- 📧 Email: tadiwosworkeye6@gamil.com
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&theme=radical" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwos-workeye&theme=radical" alt="GitHub streak" />
 </p>
 
 
