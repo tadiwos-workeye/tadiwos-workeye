@@ -38,10 +38,10 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&theme=gruvbox_light&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiwos-workeye&theme=gruvbox_light" alt="GitHub Streak" />
-</p>
-
+      <img src="https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0f730c" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tadiwos-workeye&theme=gruvbox-light&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=ffffff&background=0f730c" alt="GitHub Streak" />
+   </p>
 </div>
+
 
