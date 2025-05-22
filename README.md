@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack Developer | MSc in Computer Science & Engineering (AI)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MSc+in+Computer+Science+%26+Engineering+%28AI%29;Next.js+%7C+React+%7C+.NET+%7C+Angular+%7C+TS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MSc+in+Computer+Science+%26+Engineering+%28AI%29;Next.js+%7C+React+%7C+.NET+%7C+Angular+%7C+TS" alt="Typing SVG" />
 </p>
+
 
 ---
 
