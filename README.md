@@ -42,5 +42,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tadiwos-workeye&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=ffffff&background=ccffcc" alt="GitHub Streak" />
 </div>
 
-![Tadiwos's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadiwos-workeye)](https://github.com/tadiwos-workeye/github-readme-stats)
