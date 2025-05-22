@@ -34,15 +34,5 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=ccffcc" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tadiwos-workeye&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=ffffff&background=ccffcc" alt="GitHub Streak" />
-</div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadiwos-workeye)](https://github.com/tadiwos-workeye/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadiwos-workeye&show_icons=true&count_private=true)
 
