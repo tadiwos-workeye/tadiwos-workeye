@@ -30,7 +30,7 @@
 
 ### 📫 Contact Me
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: https://www.linkedin.com/in/tadiwos-workiye-183704224/
 - 📧 Email: tadiwosworkeye6@gmail.com
 
 ---
