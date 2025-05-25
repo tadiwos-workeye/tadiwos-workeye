@@ -18,16 +18,20 @@ My skill set covers both frontend and backend development, allowing me to create
 ### 🛠️ I have extensive experience working with a wide range of technologies, including :-
 
 **👑 Frontend:**  
-React · Next.js · Angular · Material-UI · Bootstrap · Figma
+
+- React · Next.js · Angular · Material-UI · Bootstrap · Figma
 
 **👑 Backend:**  
-.NET Framework · RESTful API Development
 
-**👑 Database:**  
-MySQL · SQL Server
+- .NET Framework · RESTful API Development
+
+**👑 Database:** 
+
+- MySQL · SQL Server
 
 **👑 Version Control:**  
-Git · GitHub · GitKraken
+
+- Git · GitHub · GitKraken
 
 **🎨 UI/UX:**  
 Focused on designing seamless, user-friendly interfaces with an emphasis on user experience
@@ -54,12 +58,15 @@ Focused on designing seamless, user-friendly interfaces with an emphasis on user
 
 ### 🚀 Tech Stack
 
-| Frontend      | Backend          | Languages      | Tools & Other       |
-|---------------|------------------|----------------|---------------------|
-| Next.js       | .NET Framework   | TypeScript     | Git & GitHub        |
-| React         | RESTful APIs     | JavaScript     | Postman             |
-| Angular       |  Next.js        |     C#           | Visual Studio Code  |
-| MUI (Material UI) |             |    python            | Docker (basic)      |
+
+| Frontend         | Backend         | Database                   | Languages         | Tools & Other         |
+|------------------|-----------------|----------------------------|-------------------|------------------------|
+| Next.js          | .NET Framework  | SQL Server                 | TypeScript        | Git & GitHub           |
+| React            | RESTful APIs    | MySQL                      | JavaScript        | Postman                |
+| Angular          | Next.js         | PostgreSQL                 | C#                | Visual Studio Code     |
+| MUI (Material UI)|                 |                            | Python            | Docker (basic)         |
+
+
 
 ---
 
