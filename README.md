@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MSc+in+Computer+Science+%26+Engineering+%28AI%29;Next.js+%7C+React+%7C+.NET+%7C+Angular+%7C+TS" alt="Typing SVG" />
 </p>
 
+---
+
 ## 👋 About Me
 
 I’m a Full Stack Developer with over **5 years of professional experience** in software development and a **Master’s degree in Computer Science & Engineering**, specializing in **Artificial Intelligence**. I specialize in building **scalable**, **high-performance**, and **user-centric** web applications from end to end.
@@ -41,7 +43,7 @@ Focused on designing seamless, user-friendly interfaces with an emphasis on user
 
 ---
 
-### 🧠 About Me
+### 🧠 More about About Me
 
 - 🎓 MSc in Computer Science and Engineering with a focus on Artificial Intelligence  
 - 👨‍💻 I build full-stack applications with modern frameworks and clean architecture  
