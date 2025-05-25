@@ -31,7 +31,7 @@
 ### 📫 Contact Me
 
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 📧 Email: tadiwosworkeye6@gmail.com
 
 ---
 
