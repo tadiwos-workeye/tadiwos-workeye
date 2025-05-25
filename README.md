@@ -5,6 +5,39 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MSc+in+Computer+Science+%26+Engineering+%28AI%29;Next.js+%7C+React+%7C+.NET+%7C+Angular+%7C+TS" alt="Typing SVG" />
 </p>
 
+## 👋 About Me
+
+I’m a Full Stack Developer with over **5 years of professional experience** in software development and a **Master’s degree in Computer Science & Engineering**, specializing in **Artificial Intelligence**. I specialize in building **scalable**, **high-performance**, and **user-centric** web applications from end to end.
+
+My skill set covers both frontend and backend development, allowing me to create **seamless, integrated solutions** that solve complex business challenges while delivering intuitive user experiences.
+
+---
+
+### 🛠️ I have extensive experience working with a wide range of technologies, including :-
+
+**👑 Frontend:**  
+React · Next.js · Angular · Material-UI · Bootstrap · Figma
+
+**👑 Backend:**  
+.NET Framework · RESTful API Development
+
+**👑 Database:**  
+MySQL · SQL Server
+
+**👑 Version Control:**  
+Git · GitHub · GitKraken
+
+**🎨 UI/UX:**  
+Focused on designing seamless, user-friendly interfaces with an emphasis on user experience
+
+---
+
+### 🚀 What I Do
+- Develop robust full stack applications
+- Architect scalable backend systems
+- Craft responsive and accessible UI components
+- Collaborate with designers to bring ideas to life
+- Optimize performance across the stack
 
 ---
 
@@ -28,7 +61,7 @@
 
 ---
 
-### 📫 Contact Me
+📫 **Let’s connect!** 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/tadiwos-workiye-183704224/
 - 📧 Email: tadiwosworkeye6@gmail.com
