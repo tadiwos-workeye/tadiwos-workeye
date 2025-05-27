@@ -34,7 +34,7 @@ My skill set covers both frontend and backend development, allowing me to create
 - Git · GitHub · GitKraken
 
 **🎨 UI/UX:**  
-Focused on designing seamless, user-friendly interfaces with an emphasis on user experience
+- Focused on designing seamless, user-friendly interfaces with an emphasis on user experience
 
 ---
 
@@ -47,7 +47,7 @@ Focused on designing seamless, user-friendly interfaces with an emphasis on user
 
 ---
 
-### 🧠 More about About Me
+### 🧠 More About Me
 
 - 🎓 MSc in Computer Science and Engineering with a focus on Artificial Intelligence  
 - 👨‍💻 I build full-stack applications with modern frameworks and clean architecture  
