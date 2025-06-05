@@ -59,12 +59,15 @@ My skill set covers both frontend and backend development, allowing me to create
 ### 🚀 Tech Stack
 
 
-| Frontend         | Backend         | Database                   | Languages         | Tools & Other         |
-|------------------|-----------------|----------------------------|-------------------|------------------------|
-| Next.js          | .NET Framework  | SQL Server                 | TypeScript        | Git & GitHub           |
-| React            | RESTful APIs    | MySQL                      | JavaScript        | Postman                |
-| Angular          | Next.js         | PostgreSQL                 | C#                | Visual Studio Code     |
-| MUI (Material UI)|                 |                            | Python            | Docker (basic)         |
+
+
+| Frontend         | Backend         | Database     | Languages         | Tools & Other         | Server                    |
+|------------------|-----------------|--------------|-------------------|------------------------|---------------------------|
+| Next.js          | .NET Framework  | SQL Server   | TypeScript        | Git & GitHub           | Microsoft Windows Server  |
+| React            | RESTful APIs    | MySQL        | JavaScript        | Postman/ Swagger       | cPanel                    |
+| Angular          | Next.js         | PostgreSQL   | C#                | Visual Studio Code     | Plesk                     |
+| MUI (Material UI)|                 |              | Python            | Docker (basic)         |                           |
+
 
 
 
